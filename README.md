@@ -40,10 +40,15 @@ void showContact(char fname[])
 Your program will be a menu driven one and present the following options to the user:
 
   MENU
+  
   L - List all contacts
+  
   I - Insert a new contact
+  
   S - Show contact
+  
   E - Exit
+  
   Selection:
   
 When the user press :
